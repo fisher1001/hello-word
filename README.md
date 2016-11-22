@@ -1,2 +1,2 @@
 # hello-word
-First project to learn in GitHub warm home
+This is my first project to learn in GitHub warm home
